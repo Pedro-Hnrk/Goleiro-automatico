@@ -1,8 +1,8 @@
 #include <ESP32Servo.h>
 
 // Definição dos sensores por quadrante
-#define TRIG_Q1 2
-#define ECHO_Q1 4
+#define TRIG_Q1 25
+#define ECHO_Q1 26
 #define TRIG_Q2 5
 #define ECHO_Q2 18
 #define TRIG_Q3 19
