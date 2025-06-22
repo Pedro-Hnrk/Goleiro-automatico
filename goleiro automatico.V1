@@ -5,18 +5,17 @@
 #define ECHO_Q1 26
 #define TRIG_Q2 5
 #define ECHO_Q2 18
-#define TRIG_Q3 19
-#define ECHO_Q3 21
+#define TRIG_Q3 34
+#define ECHO_Q3 35
 #define TRIG_Q4 22
 #define ECHO_Q4 23
 #define TRIG_Q5 32
 #define ECHO_Q5 33
-#define TRIG_Q6 25
-#define ECHO_Q6 26
+#define TRIG_Q6 2
+#define ECHO_Q6 4
 
 #define SERVO_PIN 14    // Pino PWM válido para o servo
-#define LED_PIN 27
-#define BUZZER_PIN 13
+
 
 Servo goleiro;
 const int distanciaDefesa = 25; // cm
